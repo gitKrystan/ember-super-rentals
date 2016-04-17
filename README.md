@@ -1,4 +1,4 @@
-# Meow Blog
+# Super Rentals
 
 #### By Krystan Menne and Greg Kanteres
 
